@@ -1,8 +1,8 @@
 ### Hi there ! Eu sou o Roberto Mello
 
-- 🔭 Estou cursando Engenharia da compputação.
+- 🔭 I'm studying Computer Engineering.
 - 🌱 I’m currently learning  Python e Java
-- 🌍 Iniciação cientifica: Parametrizações dos Efeitos da Quebra de Ondas Oceânicas
+- 🌍Scientific initiation: Parameterization of the Effects of Breaking Ocean Waves
 
 
 <div align="center">
